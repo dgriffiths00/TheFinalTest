@@ -1,0 +1,8 @@
+git add MyFile.txt
+git status
+
+mkdir Info
+touch InfoFile1
+touch InfoFile2 
+
+git config user.name Duncan_INFO
