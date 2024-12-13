@@ -6,3 +6,7 @@ touch InfoFile1
 touch InfoFile2 
 
 git config user.name Duncan_INFO
+
+I used vim to edit MyFile.txt with course name and code at the top.
+I used git status to check the status of the repository.
+I learned that I am very confused as to what is meant by reflect on what I've learned. 
